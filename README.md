@@ -9,6 +9,7 @@ you can modify it to extract any required field from http header.
 
 
 TODO:
+- config file parser
 - make target header item configurable (referer, location, agent, ...)
 
 
@@ -22,7 +23,7 @@ To use default config:
 # ./urldump2
 ```
 
-To specify a config file
+To specify a config file (TBD)
 ```
 # ./urldump2 -c /path/to/urldump2.config
 ```
