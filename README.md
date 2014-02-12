@@ -13,6 +13,12 @@ TODO:
 - make target header item configurable (referer, location, agent, ...)
 
 
+Dependencies:
+```
+libpcap
+hiredis
+```
+
 To Use:
 ```
 # make
