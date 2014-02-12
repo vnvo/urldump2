@@ -13,9 +13,9 @@ TODO:
 
 
 To Use:
-# make
-- To use default config:
-# ./urldump2
+#make
+-To use default config:
+#./urldump2
 
-- To specify a config file
-# ./urldump2 -c /path/to/urldump2.config
+-To specify a config file
+#./urldump2 -c /path/to/urldump2.config
