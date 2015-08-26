@@ -11,13 +11,13 @@
 #include "urldump2.h"
 
 struct HttpContext {
-		ulong req_epoch; // time of request
-        char *src_ip;   // source ip of request
-        char *dst_ip;   // destination ip of request
-        char *hostname;
-        char *referer;
-        char *uri;
-        char *visited_url;
+    ulong req_epoch; // time of request
+    char *src_ip;   // source ip of request
+    char *dst_ip;   // destination ip of request
+    char *hostname;
+    char *referer;
+    char *uri;
+    char *visited_url;
 };
 
 
