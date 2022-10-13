@@ -1,7 +1,7 @@
 urldump2
 ========
 
-simple experimental libpcap based dumper for http header info.
+simple experimental libpcap based dumper for http header info!
 currently you can specify a libpcap filter in config file and it will
 dump referer data into a redis backend.
 
